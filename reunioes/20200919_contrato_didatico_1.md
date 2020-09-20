@@ -5,6 +5,7 @@ Prof. Benedito Antonio da Silva
 
 ### Anotações
 
+
 - Autor principal no assunto: Guy Brusseau
 - A relação professor-aluno é regida por um contrato implícito, chamado *contrato didático*.
 - O contrato didático envolve três elementos: professor, aluno e saber.
