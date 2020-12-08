@@ -1,0 +1,113 @@
+---
+title: "MAE0121"
+subtitle: "Análise exploratória de dados"
+author: "Julio Trecenti"
+institute: "IME-USP"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+# Curso atual
+
+**Nome original da disciplina**: Introdução a Probabilidade e a Estatística I
+
+[**Ementa original da disciplina**](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAE0121&verdis=7)
+
+---
+
+# Proposta
+
+**Nome proposto**: Análise Exploratória de Dados.
+
+**Créditos**: 4 (60h).
+
+**Objetivos**:
+
+- Conceituar o pensamento estatístico: método científico
+- Conceituar a prática estatística: ciclo da ciência de dados
+- Introduzir os conceitos de probabilidade e variáveis aleatórias
+- Arrumação de bases de dados
+
+
+---
+
+# Programa resumido
+
+**Programa resumido**:
+
+1. Leitura de artigos científicos
+2. Introdução ao R
+3. Gráficos estatísticos e medidas resumo
+4. Introdução à regressão linear
+5. Probabilidade e variáveis aleatórias
+6. Bases de dados
+
+
+---
+
+# Justificativa
+
+- O curso de estatística é desafiador pois mistura teoria matemática, fundamentos da ciência e aspectos práticos. 
+
+--
+
+- O fio condutor do pensamento estatístico é o método científico, que se manifesta em problemas práticos através do ciclo da ciência de dados.
+
+--
+
+- No entanto, o pensamento estatístico é escondido dos alunos desde o início da graduação. 
+
+--
+
+- A disciplina de introdução à probabilidade e estatística é engessada. 
+
+--
+
+- A disciplina modificada busca resolver esses problemas com uma abordagem imersiva.
+
+---
+
+# Ciclo da ciência de dados
+
+![](https://curso-r.github.io/main-r4ds-1/slides/img/ciclo-ciencia-de-dados.png)
+
+---
+
+# Proposta
+
+- Leitura e discussão de artigos
+- [R para ciência de dados](https://curso-r.github.io/202010-r4ds-1/)
+    - Gramática de gráficos e medidas resumo.
+    - Formulações matemáticas de média, mediana, variância etc.
+- Correlação e regressão
+    - [Introdução à regressão](https://curso-r.github.io/main-regressao-linear/slides/02-regressao-linear.html#1)
+- Introdução à probabilidade
+    - Probabilidade condicional, probabilidade total e regra de Bayes
+    - Interpretações da probabilidade
+    - Variáveis aleatórias
+- Desafio de arrumação de dados
+    - Cada dupla receberá uma base de dados e um problema a ser resolvido com análise descritiva e uma regressão linear.
+
+---
+
+# Avaliação
+
+- 3 atividades (em duplas) para casa (30%)
+- 1 trabalho final (em duplas) para casa (30%)
+- 1 prova discursiva individual (40%)
+
+---
+
+# Bibliografia
+
+James, Gareth, et al. An introduction to statistical learning. Vol. 112. New York: springer, 2013.
+
+Wickham, Hadley, and Garrett Grolemund. R for data science: import, tidy, transform, visualize, and model data. " O'Reilly Media, Inc.", 2016.
+
+W. O. Bussab, P. A. Morettin, Estatística Básica, 8a ed., São Paulo: Editora Saraiva, 2013. 
